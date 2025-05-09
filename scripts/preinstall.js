@@ -1,4 +1,4 @@
-const fs = require("fs");
+const fs = require("fs"); //2
 const { execSync } = require("child_process");
 const packageRoot = __dirname + "/../";
 
